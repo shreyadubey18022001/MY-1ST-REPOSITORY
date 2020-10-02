@@ -1,2 +1,2 @@
-# MY-1ST-REPOSITORY
+# MY-First-REPOSITORY
 Hello World

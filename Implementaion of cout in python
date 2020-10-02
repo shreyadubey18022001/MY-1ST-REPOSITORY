@@ -1,0 +1,6 @@
+class Ostream:
+    def __lshift__(self,other):
+        print(other,end=" ")
+        return self
+cout=Ostream()
+cout<<"Akash The great"
